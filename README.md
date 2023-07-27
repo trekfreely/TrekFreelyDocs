@@ -1,7 +1,3 @@
-<a href="https://www.buymeacoffee.com/trekfreely" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<a href="https://www.instagram.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="41" width="174"></a>
-
-
 # TrekFreely Documentation
 Welcome to the documentation and roadmap for the TrekFreely LLC Website - https://trekfreely.com
 
@@ -17,7 +13,7 @@ Welcome to the documentation and roadmap for the TrekFreely LLC Website - https:
   - [Features Roadmap](#features-roadmap)
   - [Member Benefits](#member-benefits)
 - [Support TrekFreely LLC](#support-this-project)
-  - [Buy Me A Coffee](#buy-me-a-coffee)
+- [Social Media](#social-media)
 - [Disclaimer and Privacy Policy](#disclaimer)
 
 # About TrekFreely LLC
@@ -50,10 +46,12 @@ Who we are and what we do goes here
 
 <br><br>
 ## Support This Project
-
-### Buy Me A Coffee
-
 <a href="https://www.buymeacoffee.com/trekfreely" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.paypal.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="41" width="174"></a>
+
+<br><br>
+## Social Media
+<a href="https://www.instagram.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="41" width="174"></a>
 
 <br><br>
 ## Disclaimer
