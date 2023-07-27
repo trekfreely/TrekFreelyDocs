@@ -5,7 +5,7 @@
 # TrekFreely Documentation
 Welcome to the documentation and roadmap for the TrekFreely LLC Website - https://trekfreely.com
 
-
+<br><br>
 ## 📔 Table of Contents
 
 -----------------
@@ -24,6 +24,7 @@ Welcome to the documentation and roadmap for the TrekFreely LLC Website - https:
 
 Who we are and what we do goes here
 
+<br><br>
 # :fire: TrekFreely Website Features :fire:
 
 ## Free Campsite Listings
@@ -47,12 +48,14 @@ Who we are and what we do goes here
 
 - Blah Blah info on why becoming a member is a good thing
 
+<br><br>
 ## Support This Project
 
 ### Buy Me A Coffee
 
 <a href="https://www.buymeacoffee.com/trekfreely" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+<br><br>
 ## Disclaimer
 
 Disclaimer for the TrekFreely LLC website and its privacy policy will go here
