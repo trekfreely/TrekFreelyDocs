@@ -16,7 +16,7 @@ Welcome to the documentation and roadmap for the TrekFreely LLC Website. Use the
   - [Campsite Reviews](#campsite-reviews)
   - [Features Roadmap](#features-roadmap)
   - [Member Benefits](#member-benefits)
-- [Support TrekFreely LLC](#support-this-project)
+- [Support TrekFreely LLC](#support-trekfreely-llc)
 - [Social Media](#social-media)
 - [Disclaimer and Privacy Policy](#disclaimer)
 
@@ -49,7 +49,7 @@ Who we are and what we do goes here
 - Blah Blah info on why becoming a member is a good thing
 
 <br><br>
-## Support This Project
+## Support TrekFreely LLC
 <a href="https://www.buymeacoffee.com/trekfreely" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <a href="https://www.paypal.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="41" width="174"></a>
 
