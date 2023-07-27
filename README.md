@@ -1,5 +1,9 @@
 # TrekFreely Documentation
-Welcome to the documentation and roadmap for the TrekFreely LLC Website - https://trekfreely.com
+Welcome to the documentation and roadmap for the TrekFreely LLC Website. Use the table of contents below to quickly jump between sections!
+<br><br>
+<a href="https://www.trekfreely.com" target="_blank"><img src="https://img.shields.io/badge/Visit%20TrekFreely-718224" alt="Visit TrekFreely" height="41" width="174"></a>
+<a href="https://www.trekfreely.com/contact" target="_blank"><img src="https://img.shields.io/badge/Contact%20Us-8A2BE2" alt="Contact Us" height="41" width="174"></a>
+
 
 <br><br>
 ## 📔 Table of Contents
