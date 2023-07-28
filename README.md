@@ -71,6 +71,9 @@ TrekFreely LLC does incur lots of monthly costs for running the services provide
 
 <br><br>
 # Social Media
+Check out TrekFreely LLC on Social Media! Along with our monthly newsletter, we release all kinds of interesting information on our social accounts as well. Be sure to use the links below to follow us and stay up to date on everything that is going on!
+
+<br>
 <a href="https://www.instagram.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="41" width="174"></a>
 
 <br><br>
