@@ -211,7 +211,7 @@ TrekFreely LLC uses a number of cookies on this Site for a number of security an
 
   - CSRF (Cross Site Request Forgery) Cookies/Tokens -- These are used to prevent attacks where the end users browser is forced to do unwanted actions on a web application in which they are currently authenticated. To learn more about these attacks, please see the <a href="https://owasp.org/www-community/attacks/csrf" style="color: white;"><u><strong>OWASP Documentation</strong></u></a>.
   - HttpOnly Cookies -- These are used to prevent any client-side scripting attacks against the end user that could leak the protected cookie. For additional information, please see the <a href="https://owasp.org/www-community/HttpOnly" style="color: white;"><u><strong>OWASP Documentation</strong></u></a>.
-  -Google Analytics -- Google Analytics JavaScript is used on this Site in order to provide accurate and helpful usage statistics to TrekFreely LLC so that this Site can be better maintained and the best user experience provided.
+  - Google Analytics -- Google Analytics JavaScript is used on this Site in order to provide accurate and helpful usage statistics to TrekFreely LLC so that this Site can be better maintained and the best user experience provided.
 
 
 #### SECURITY
