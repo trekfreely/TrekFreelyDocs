@@ -61,6 +61,11 @@ All of the data points (including campsites, and all others in our activities ma
 
 <br><br>
 # Support TrekFreely LLC
+Enjoying the site? Every little bit helps!
+
+TrekFreely LLC does incur lots of monthly costs for running the services provided to the public at no charge. The best way to support our efforts is to sign up for the Pro features on our site! If you do feel so inclined to help out in other ways, we do also accept other donations and subscriptions using the below links!  Any and all donations are greatfully accepted and you will recieve a shoutout in our monthly newsletter for each donation as well!
+
+<br>
 <a href="https://www.buymeacoffee.com/trekfreely" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <a href="https://www.paypal.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="41" width="174"></a>
 
