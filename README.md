@@ -21,6 +21,7 @@ Welcome to the documentation and roadmap for the TrekFreely LLC Website. Use the
 - [Social Media](#social-media)
 - [Terms of User, Privacy Policy, and Accessability Statements](#disclaimer)
 
+<br><br>
 # About TrekFreely LLC
 
 Hi All! TrekFreely LLC is registered in Colorado USA and was created with the intent of sharing free and dispersed campsites with the public in hopes to make camping and adventuring more accessable to people who were previously unaware of all the free possbilities that exist. There are several other services on the internet that provide similar information or datasets, but they often come with a cost which in our opinion, goes against the entire idea of providing free campsite information to the public. 
