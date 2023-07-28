@@ -183,7 +183,7 @@ Terms of Use Updated: July 27, 2023
 <br><br>
 ## Privacy Policy
 
-This privacy notice discloses the privacy practices for www.trekfreely.com. This privacy notice applies solely to information collected by this website. It will notify you of the following:
+This privacy notice discloses the privacy practices for www.trekfreely.com. This privacy notice applies solely to information collected by https://www.trekfreely.com (the "Site" or "Website"). It will notify you of the following:
 
   1: What personally identifiable information is collected from you through the website, how it is used, and with whom it may be shared.
  
@@ -195,7 +195,7 @@ This privacy notice discloses the privacy practices for www.trekfreely.com. This
 
 
 #### INFORMATION COLLECTION, USE, AND SHARING
-We are the sole owners of all information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+We (TrekFreely LLC) are the sole owners of all information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 We will use your information to respond to you regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
 #### YOUR ACCESS TO AND CONTROL OF YOUR INFORMATION
@@ -206,6 +206,12 @@ You may opt out of any future contact from us at any time. You can do the follow
   - Have us delete any data we have about you.
   - Express any concern you have about our use of your data.
 
+#### COOKIES
+TrekFreely LLC uses a number of cookies on this Site for a number of security and reporting reasons. Each of them is outlined below:</p>
+
+  - CSRF (Cross Site Request Forgery) Cookies/Tokens -- These are used to prevent attacks where the end users browser is forced to do unwanted actions on a web application in which they are currently authenticated. To learn more about these attacks, please see the <a href="https://owasp.org/www-community/attacks/csrf" style="color: white;"><u><strong>OWASP Documentation</strong></u></a>.
+  - HttpOnly Cookies -- These are used to prevent any client-side scripting attacks against the end user that could leak the protected cookie. For additional information, please see the <a href="https://owasp.org/www-community/HttpOnly" style="color: white;"><u><strong>OWASP Documentation</strong></u></a>.
+  -Google Analytics -- Google Analytics JavaScript is used on this Site in order to provide accurate and helpful usage statistics to TrekFreely LLC so that this Site can be better maintained and the best user experience provided.
 
 
 #### SECURITY
