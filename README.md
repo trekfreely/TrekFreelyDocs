@@ -72,7 +72,7 @@ TrekFreely LLC does incur lots of monthly costs for running the services provide
 
 <br>
 <a href="https://www.buymeacoffee.com/trekfreely" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<a href="https://www.paypal.com/donate/?hosted_button_id=F4BWYU45P89FC" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="41" width="174"></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=MJ7AKL2DH2H9G" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="41" width="174"></a>
 
 <br><br>
 # Social Media
