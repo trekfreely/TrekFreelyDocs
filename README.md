@@ -14,6 +14,7 @@ Welcome to the documentation and roadmap for the TrekFreely LLC Website. Use the
 - [:fire: TrekFreely Website Features :fire:](#fire-trekfreely-website-features-fire)
   - [Free Campsite Listings](#free-campsite-listings)
   - [Campsite Reviews](#campsite-reviews)
+  - [Monthly Newsletter](#monthly-newsletter)
   - [Features Roadmap](#features-roadmap)
   - [Member Benefits](#member-benefits)
   - [Security Considerations](#security-considerations)
@@ -45,6 +46,10 @@ All of the data points (including campsites, and all others in our activities ma
 - Blah Blah info on how you can post reviews
 - Info on reviews is used to update listings once it has been validated yadda yadda
 - Picures attached to reviews woo
+
+## Monthly Newsletter
+
+- Blah Blah info on newsletter
 
 ## Features Roadmap
 
