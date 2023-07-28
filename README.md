@@ -19,7 +19,10 @@ Welcome to the documentation and roadmap for the TrekFreely LLC Website. Use the
   - [Security Considerations](#security-considerations)
 - [Support TrekFreely LLC](#support-trekfreely-llc)
 - [Social Media](#social-media)
-- [Terms of User, Privacy Policy, and Accessability Statements](#disclaimer)
+- [Disclaimers](#disclaimers)
+  - [Terms of Use](#terms-of-use)
+  - [Privacy Policy](#privacy-policy)
+  - [Accessability Statement](#accessability-statement)
 
 <br><br>
 # About TrekFreely LLC
@@ -66,8 +69,20 @@ All of the data points (including campsites, and all others in our activities ma
 <a href="https://www.instagram.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="41" width="174"></a>
 
 <br><br>
-# Terms of User, Privacy Policy, and Accessability Statements
+# Disclaimers
 
 Below you can read the TrekFreely LLC Terms of Use, Privacy Policy, and Accessability statements. These can also all be found on the TrekFreely website. Please do not hesitate to reach out to us if you have any questions or concerns!
+
+## Terms of Use
+
+Terms of use hsers
+
+## Privacy Policy
+
+Privacy Policy Here
+
+## Accessability Statement
+
+Accessability statement here
 
 
