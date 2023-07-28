@@ -57,16 +57,16 @@ All of the data points (including campsites, and all others in our activities ma
 - Blah Blah info on why why we care so much about security
 
 <br><br>
-## Support TrekFreely LLC
+# Support TrekFreely LLC
 <a href="https://www.buymeacoffee.com/trekfreely" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <a href="https://www.paypal.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="41" width="174"></a>
 
 <br><br>
-## Social Media
+# Social Media
 <a href="https://www.instagram.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="41" width="174"></a>
 
 <br><br>
-## Terms of User, Privacy Policy, and Accessability Statements
+# Terms of User, Privacy Policy, and Accessability Statements
 
 Below you can read the TrekFreely LLC Terms of Use, Privacy Policy, and Accessability statements. These can also all be found on the TrekFreely website. Please do not hesitate to reach out to us if you have any questions or concerns!
 
