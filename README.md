@@ -16,6 +16,7 @@ Welcome to the documentation and roadmap for the TrekFreely LLC Website. Use the
   - [Campsite Reviews](#campsite-reviews)
   - [Features Roadmap](#features-roadmap)
   - [Member Benefits](#member-benefits)
+  - [Security Considerations](#security-considerations)
 - [Support TrekFreely LLC](#support-trekfreely-llc)
 - [Social Media](#social-media)
 - [Disclaimer and Privacy Policy](#disclaimer)
@@ -50,6 +51,10 @@ All of the data points (including campsites, and all others in our activities ma
 
 - Blah Blah info on why becoming a member is a good thing
 
+## Security Considerations
+
+- Blah Blah info on why why we care so much about security
+
 <br><br>
 ## Support TrekFreely LLC
 <a href="https://www.buymeacoffee.com/trekfreely" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
@@ -62,4 +67,6 @@ All of the data points (including campsites, and all others in our activities ma
 <br><br>
 ## Disclaimer
 
-Disclaimer for the TrekFreely LLC website and its privacy policy will go here
+Below you can read the TrekFreely LLC Terms of Use, Privacy Policy, and Accessability statements. These can also all be found on the TrekFreely website. Please do not hesitate to reach out to us if you have any questions or concerns!
+
+
