@@ -66,6 +66,7 @@ All of the data points (including campsites, and all others in our activities ma
 - Activity map integration will be coming soon for Pro members!
   - Fishing access and hotspots
   - Disk Golf courses
+  - GMRS and HAM Radiuo coverage maps
 - Automatic blurring of license plates in all upoaded photos (for security purposes) - Once implimented, this will also go through and blur any existing photos that have been uploaded without this feature
 
 ## Member Benefits
@@ -74,6 +75,7 @@ All of the data points (including campsites, and all others in our activities ma
 - Access to activity maps and filters showing different activities in relation to campsites (roadmap)
   - Fishing access and hotspots (roadmap)
   - Disk Golf courses (roadmap)
+  - GMRS and HAM Radio coverage maps (roadmap)
 - Discounts on TrekFreely merchandise
 
 ## Security Considerations
