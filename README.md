@@ -68,7 +68,7 @@ All of the data points (including campsites, and all others in our activities ma
 
 ## Security Considerations
 
-Aside from providing clean accurate mapping data on campsites and other activities around the US, the other primary reason TrekFreely LLC was created was to protect its users from the misuse of their data. By now, all of us are most likely familiar with how so many places abuse and collect online data from anyone that even browses to their site. The founders of TrekFreely LLC come from a strong CyberSecurity background and believe that no data that is not absolutely necessary to the function of the site and information provided should be stored or sold.
+Aside from providing clean accurate mapping data on campsites and other activities around the US, the other primary reason TrekFreely LLC was created was to protect its users from the misuse of their data. By now, all of us are most likely familiar with how so many places abuse and collect online data from anyone that even browses to their site. The founders of TrekFreely LLC come from a strong CyberSecurity background and believe that no data or information provided, unless it is absolutely necessary to the function of the site, should be stored or sold.
 
 The services provided by TrekFreely LLC come with a guarantee that no information, let alone personally identifiable information (PII) shall be collected, stored, or sold. This includes any emails that are used in the account creation or newsletter sign up process. Our goal is to give our customers the peace of mind that their information is safe and will not be at risk.
 
