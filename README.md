@@ -44,6 +44,9 @@ All of the data points (including campsites, and all others in our activities ma
   - Official Website for location or USFS district where campsite resides
   - Type of camping surface and number of campsites/pads (if available)
   - Cell service reports (if available)
+  - Common activities
+  - Detailed elevation and location information
+  - Link to Google Maps to make trip and travel planning easier
 - Reviews for each campsite are available as well that can include pictures!
 - Users can submit new campsite locations as well! Once vetted, they will be added to the map for all to see and enjoy!
 - Changes or updates to existing campsite records can be requested as well if information is found to be out of date or incorrect
