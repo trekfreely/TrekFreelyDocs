@@ -108,7 +108,7 @@ Check out TrekFreely LLC on Social Media! Along with our monthly newsletter, we 
 
 <br>
 <a href="https://www.instagram.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="41" width="174"></a>
-<a href="https://www.threads.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" height="41" width="174"></a>
+<a href="https://www.threads.net/@trekfreely" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" height="41" width="174"></a>
 <a href="https://www.twitter.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="41" width="174"></a>
 <a href="https://www.facebook.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="41" width="174"></a>
 
