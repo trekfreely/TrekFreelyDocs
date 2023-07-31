@@ -37,15 +37,24 @@ All of the data points (including campsites, and all others in our activities ma
 
 ## Free Campsite Listings
 
-- Blah Blah info about free campsite listings
-- Ability to search and filter blah blah
-- Info about each campsite blah blah (cell signal, weather, etc)
+- The TrekFreely site focuses on providing accurate mapping data and information on free and dispersed camping around the US
+- Campsite listings are categorized for easy filtering and searching to make finding your next adventure a breeze
+- Each individual listing page contains a number of important features and information including:
+  - Weather forecasts
+  - Official Website
+  - Type of camping surface and number of campsites/pads (if available)
+  - Cell service reports (if available)
+- Reviews for each campsite are available as well that can include pictures!
+- Users can submit new campsite locations as well! Once vetted, they will be added to the map for all to see and enjoy!
+- Changes or updates to existing campsite records can be requested as well if information is found to be out of date or incorrect
+- If subscribed as a Pro member, campsite maps can be downloaded in different formats to be uploaded into other applications for offline use and navigation
 
 ## Campsite Reviews
 
-- Blah Blah info on how you can post reviews
-- Info on reviews is used to update listings once it has been validated yadda yadda
-- Picures attached to reviews woo
+- The ability to add reviews is one of the key features of TrekFreely that makes it so valuable! It is one of the most important deciding factors when choosing a place to camp is user reviews.
+- All data in reviews are used to update the campsite listing (as far as cell signal, number of sites/pads, etc) to ensure that listings are all kept up to date
+- Attaching pictures to reviews is also a very handy feature to show off what the campsite looks like!
+- Reviews can be added by users with an account, or without to keep postings anonymous
 
 ## Monthly Newsletter
 
@@ -57,6 +66,7 @@ All of the data points (including campsites, and all others in our activities ma
 - Activity map integration will be coming soon for Pro members!
   - Fishing access and hotspots
   - Disk Golf courses
+- Automatic blurring of license plates in all upoaded photos (for security purposes) - Once implimented, this will also go through and blur any existing photos that have been uploaded without this feature
 
 ## Member Benefits
 
