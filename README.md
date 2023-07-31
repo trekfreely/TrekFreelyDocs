@@ -49,20 +49,32 @@ All of the data points (including campsites, and all others in our activities ma
 
 ## Monthly Newsletter
 
-- Blah Blah info on newsletter
+- Each month, TrekFreely releases a newsletter with new campsites that have been posted, shoutouts to any donors, and lots of important information on upcoming feature releases and updates to the site! Be sure to visit trekfreely.com and sign up for the newsletter at the bottom of the page! You won't want to miss out!
 
 ## Features Roadmap
 
-- Blah Blah info on upcoming feature releases
-- Stay updated by subscribing to our newsletter yaddaa yadda
+- Subscribe to our newsletter in order to stay up to date on all of the latest feature releases and news!
+- Activity map integration will be coming soon for Pro members!
+  - Fishing access and hotspots
+  - Disk Golf courses
 
 ## Member Benefits
 
-- Blah Blah info on why becoming a member is a good thing
+- Ability to download maps in different formats for offline use and navigation
+- Access to activity maps and filters showing different activities in relation to campsites (roadmap)
+  - Fishing access and hotspots (roadmap)
+  - Disk Golf courses (roadmap)
+- Discounts on TrekFreely merchandise
 
 ## Security Considerations
 
-- Blah Blah info on why why we care so much about security
+Aside from providing clean accurate mapping data on campsites and other activities around the US, the other primary reason TrekFreely LLC was created was to protect its users from the misuse of their data. By now, all of us are most likely familiar with how so many places abuse and collect online data from anyone that even browses to their site. The founders of TrekFreely LLC come from a strong CyberSecurity background and believe that no data that is not absolutely necessary to the function of the site and information provided should be stored or sold.
+
+The services provided by TrekFreely LLC come with a guarantee that no information, let alone personally identifiable information (PII) shall be collected, stored, or sold. This includes any emails that are used in the account creation or newsletter sign up process. Our goal is to give our customers the peace of mind that their information is safe and will not be at risk.
+
+The TrekFreely website also undergoes scheduled penetration and security testing to ensure that it meets all of the latest OWASP recommendations for Web Applications and websites. This is to ensure the safety of the data on TrekFreely from hackers and bad actors who wish to gain access to any sensitive information the site may be handling including user login information. All security issues that are found are patched with the highest of priority and then re-tested once resolved to ensure that the vulnerability is in fact mitigated and that no additional workarounds or security holes were opened in the patching process.
+
+If you have any additional questions about the security posture or stance of TrekFreely LLC, please refer to the [Disclaimers](#disclaimers) section or contact us at info@trekfreely.com.
 
 <br><br>
 # Support TrekFreely LLC
