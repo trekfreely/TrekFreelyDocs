@@ -41,7 +41,7 @@ All of the data points (including campsites, and all others in our activities ma
 - Campsite listings are categorized for easy filtering and searching to make finding your next adventure a breeze
 - Each individual listing page contains a number of important features and information including:
   - Weather forecasts
-  - Official Website
+  - Official Website for location or USFS district where campsite resides
   - Type of camping surface and number of campsites/pads (if available)
   - Cell service reports (if available)
 - Reviews for each campsite are available as well that can include pictures!
