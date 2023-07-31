@@ -112,7 +112,7 @@ Check out TrekFreely LLC on Social Media! Along with our monthly newsletter, we 
 <a href="https://www.twitter.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="41" width="174"></a>
 <a href="https://www.facebook.com/trekfreely" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="41" width="174"></a>
 
-<a href="https://github.com/trekfreely/TrekFreelyDocs/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="41" width="174"></a>
+<a href="https://github.com/trekfreely/TrekFreelyDocs/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="41" width="174"></a>
 
 <br><br>
 # Disclaimers
