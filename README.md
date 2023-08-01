@@ -50,7 +50,7 @@ All of the data points (including campsites, and all others in our activities ma
 - Reviews for each campsite are available as well that can include pictures!
 - Users can submit new campsite locations as well! Once vetted, they will be added to the map for all to see and enjoy!
 - Changes or updates to existing campsite records can be requested as well if information is found to be out of date or incorrect
-- If subscribed as a Pro member, campsite maps can be downloaded in different formats to be uploaded into other applications for offline use and navigation
+- If subscribed as a Pro Member, campsite maps can be downloaded in different formats to be uploaded into other applications for offline use and navigation
 
 ## Campsite Reviews
 
@@ -66,12 +66,12 @@ All of the data points (including campsites, and all others in our activities ma
 ## Features Roadmap
 
 - Subscribe to our newsletter in order to stay up to date on all of the latest feature releases and news!
-- Activity map integration will be coming soon for Pro members!
+- Activity map integration will be coming soon for Pro Members!
   - Fishing access and hotspots
   - Disk Golf courses
   - GMRS and HAM Radio coverage maps
 - Automatic blurring of license plates in all upoaded photos (for security purposes) - Once implimented, this will also go through and blur any existing photos that have been uploaded without this feature
-- Androin and iOS apps are in development to bring TrekFreely with you wherever your adventure takes you!
+- Android and iOS apps are in development to bring TrekFreely with you wherever your adventure takes you!
 
 ## Member Benefits
 
