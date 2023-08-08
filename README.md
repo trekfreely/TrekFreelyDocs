@@ -72,6 +72,7 @@ All of the data points (including campsites, and all others in our activities ma
   - GMRS and HAM Radio coverage maps
 - Automatic blurring of license plates in all upoaded photos (for security purposes) - Once implimented, this will also go through and blur any existing photos that have been uploaded without this feature
 - Android and iOS apps are in development to bring TrekFreely with you wherever your adventure takes you!
+- Merch store
 
 ## Member Benefits
 
@@ -80,7 +81,8 @@ All of the data points (including campsites, and all others in our activities ma
   - Fishing access and hotspots (roadmap)
   - Disk Golf courses (roadmap)
   - GMRS and HAM Radio coverage maps (roadmap)
-- Discounts on TrekFreely merchandise
+- Discounts on TrekFreely merchandise (roadmap)
+- Remove ads from all pages (once signed in)
 
 ## Security Considerations
 
