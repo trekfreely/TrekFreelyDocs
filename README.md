@@ -98,7 +98,9 @@ If you have any additional questions about the security posture or stance of Tre
 # Support TrekFreely LLC
 Enjoying the site? Every little bit helps!
 
-TrekFreely LLC does incur lots of monthly costs for running the services provided to the public at no charge. The best way to support our efforts is to sign up for the Pro features on our site! If you do feel so inclined to help out in other ways, we do also accept other donations and subscriptions using the below links!  Any and all donations are greatfully accepted and you will recieve a shoutout in our monthly newsletter for each donation as well!
+TrekFreely LLC does incur lots of monthly costs for running the services provided to the public at no charge. The best way to support our efforts is to sign up for the Pro features on our site. If you do feel so inclined to help out in other ways, we do also accept other donations and subscriptions using the below links!  Any and all donations are greatfully accepted and you will recieve a shoutout in our monthly newsletter for each donation as well!
+
+For every $5 that is donated, TrekFreely LLC will plant a tree on your behalf!
 
 <br>
 <a href="https://www.buymeacoffee.com/trekfreely" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
